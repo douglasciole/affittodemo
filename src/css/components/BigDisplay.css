@@ -1,0 +1,18 @@
+.bigDisplay {
+    padding: 85px 208px;
+    background-color: #18474E;
+    color: #FFFFFF;
+    text-align: left;
+    min-width: 790px;
+}
+
+.bigDisplayTitle {
+    font-size: 46px;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.bigDisplayText {
+    font-size: 33px;
+}

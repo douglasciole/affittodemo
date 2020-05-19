@@ -1,0 +1,10 @@
+.footerStyle {
+    display: flex;
+    min-height: 10px;
+    background-color: #18474E;
+    color: #FFFFFF;
+    padding: 0px 20px;
+    bottom: 0px;
+    font-size: 12px;
+    padding: 20px 208px;
+}

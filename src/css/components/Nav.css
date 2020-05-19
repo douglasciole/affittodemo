@@ -1,0 +1,28 @@
+.navStyle {
+    display: flex;
+    align-items: flex-end;
+    min-height: 100px;
+    background-color: #FFFFFF;
+    border-bottom: 20px #E1C3C7 solid;
+    padding: 0px 32px;
+    padding-bottom: 24px;
+}
+
+.secondAlign {
+    display: flex;
+    align-items: baseline;
+}
+
+.navItems {
+    list-style-type: none;
+    font-size: 29px;
+    font-weight: bold;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.logo {
+    width: 135px;
+    height: 35px;
+    align-items: flex-end;
+}
