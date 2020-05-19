@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/affittodemo/static/css/main.1ecf01d5.chunk.css",
+    "main.js": "/affittodemo/static/js/main.bfe164ff.chunk.js",
+    "main.js.map": "/affittodemo/static/js/main.bfe164ff.chunk.js.map",
+    "runtime-main.js": "/affittodemo/static/js/runtime-main.4cbce6e7.js",
+    "runtime-main.js.map": "/affittodemo/static/js/runtime-main.4cbce6e7.js.map",
+    "static/js/2.e6a434a6.chunk.js": "/affittodemo/static/js/2.e6a434a6.chunk.js",
+    "static/js/2.e6a434a6.chunk.js.map": "/affittodemo/static/js/2.e6a434a6.chunk.js.map",
+    "index.html": "/affittodemo/index.html",
+    "precache-manifest.9b04193c1e6f7446be754c0258db0a2d.js": "/affittodemo/precache-manifest.9b04193c1e6f7446be754c0258db0a2d.js",
+    "service-worker.js": "/affittodemo/service-worker.js",
+    "static/css/main.1ecf01d5.chunk.css.map": "/affittodemo/static/css/main.1ecf01d5.chunk.css.map",
+    "static/js/2.e6a434a6.chunk.js.LICENSE.txt": "/affittodemo/static/js/2.e6a434a6.chunk.js.LICENSE.txt",
+    "static/media/avenir.css": "/affittodemo/static/media/AvenirLTStd-Roman.57ab8541.woff",
+    "static/media/logo.svg": "/affittodemo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cbce6e7.js",
+    "static/js/2.e6a434a6.chunk.js",
+    "static/css/main.1ecf01d5.chunk.css",
+    "static/js/main.bfe164ff.chunk.js"
+  ]
+}
